@@ -26,7 +26,7 @@
 ---
 
 #### **Требования**  
-- **ОС**: Linux (тестировалось на Ubuntu 20.04+).  
+- **ОС**: Linux (тестировалось на LinuxMint 22.0+).  
 - **Зависимости**:  
   - PostgreSQL (`sudo apt install postgresql`).  
   - `iostat` (`sysstat` пакет).  
